@@ -9,7 +9,7 @@ write_to = "src/_version.py"
 line-length = 79
 
 [tool.pytest.ini_options]
-addopts = "--cov=untitled"
+addopts = "--cov=wiggle"
 testpaths = [
     "tests",
 ]
